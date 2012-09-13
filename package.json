@@ -1,7 +1,10 @@
 {
     "name": "github-and-bugzilla", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
-    "author": "Dietrich Ayala", 
+    "author": "Dietrich Ayala",
+    "contributors": [
+        "Henrik Skupin <mail@hskupin.info> (http://www.hskupin.info)"
+    ],
     "version": "1.6",
     "fullName": "Github tweaks for Bugzilla", 
     "id": "jid0-AWShpy08txla2QGDYvv5bed4sjs", 

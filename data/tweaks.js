@@ -1,4 +1,4 @@
-var list = document.getElementsByClassName("js-hard-tabs smalltabs")[0];
+var list = document.getElementsByClassName("tabnav-tabs js-hard-tabs")[0];
 
 if (list) {
   var bug = getBugNumber(document.title);
